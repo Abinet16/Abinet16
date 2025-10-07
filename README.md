@@ -74,11 +74,11 @@
 - **Role-based access control** and multi-tenant support
 - *Featured in Better Hack 2025*
 
-### 🧘‍♂️ AI Mental Health Chatbot
-> React • Python • NLP • Gamification
-- **AI-powered conversations** for mental wellness
-- **Gamified progress tracking** and engagement
-- **Personalized recommendations** and support system
+### 🧘‍♂️ Service Managment System for Getnet Trading
+> React • Redux • .NET • GoogleMaps
+- **Role-based access** 
+- **notification system** 
+- **secure authentication** 
 
 ### 🛰️ Fleet Management System
 > Next.js • WebSocket • GeoJSON • Real-time Tracking
