@@ -26,9 +26,9 @@
 
 - 🎓 **Software Engineering Graduate** from *Wollo University* 
 - 💼 **FullStack Developer** at **Getnet Software Solutions**
-- 🔮 **AI Explorer** preparing for Master's in Europe
+- 🔮 **AI Explorer** preparing for Master's 
 - 🚀 Building **scalable web applications** and **intelligent systems**
-- 🌱 Currently mastering **Advanced React Patterns** & **Machine Learning**
+- 🌱 Currently mastering **Advanced React Patterns & Next.Js** & **Machine Learning**
 
 
 ## 🛠️ Tech Stack & Tools
