@@ -20,7 +20,7 @@
 
 ### 🌱 About Me  
 
-- 🎓 **Software Engineering Graduate** from *Wollo University* — AGPA **3.58 / 4.0**  
+- 🎓 **Software Engineering Graduate** from *Wollo University* 
 - 💼 Currently working at **Getnet Software Solutions** *(FullStack Developer)*  
 - 🔮 Exploring **Artificial Intelligence** and aiming for a **Master’s in Europe**  
 - 🪄 Building clean, modern interfaces with **React**, **Next.js**, and **Tailwind**  
@@ -47,7 +47,6 @@
 ### 💫 My Gradient Tech Stack  
 
 <div align="center">
-
 
 💻 Languages:   JavaScript | TypeScript | Python | Bash | SQL
 🌐 Frontend:    React | Next.js | Tailwind | ShadCN | Redux
