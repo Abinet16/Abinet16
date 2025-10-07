@@ -1,7 +1,7 @@
 <!-- 🌌 GitHub Profile README - Abinet Shegaw -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Abenet+Shegaw+👋;Software+Engineer+%7C+FullStack+Developer+%7C+AI+Explorer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Abenet+Shegaw+👋;Software+Engineer+%7C+FullStack+Developer+%7C+AI+Explorer"  />
 </h1>
 
 <p align="center">
@@ -21,7 +21,7 @@
 ### 🌱 About Me  
 
 - 🎓 **Software Engineering Graduate** from *Wollo University* — AGPA **3.58 / 4.0**  
-- 💼 Currently working at **Genet Software Solutions** *(QA & Software Implementation)*  
+- 💼 Currently working at **Getnet Software Solutions** *(FullStack Developer)*  
 - 🔮 Exploring **Artificial Intelligence** and aiming for a **Master’s in Europe**  
 - 🪄 Building clean, modern interfaces with **React**, **Next.js**, and **Tailwind**  
 - ⚙️ Tinkering with **Node.js**, **Express**, **Prisma**, **MySQL**, and **PostgreSQL**  
@@ -48,7 +48,7 @@
 
 <div align="center">
 
-```text
+
 💻 Languages:   JavaScript | TypeScript | Python | Bash | SQL
 🌐 Frontend:    React | Next.js | Tailwind | ShadCN | Redux
 ⚙️ Backend:     Node.js | Express | Prisma | REST APIs
