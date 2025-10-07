@@ -55,10 +55,9 @@
 🗄️ Databases:   MySQL | PostgreSQL | SQLite
 🧪 Tools:       Git | Docker | Postman | Figma | VS Code
 </div>
-🎨 Subtle Gradient Aesthetic
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abenet-shegaw&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117,1E1E2E,312E81&title_color=8B5CF6&icon_color=00AEEF&text_color=C9D1D9" alt="Abinet's GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=abenet-shegaw&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=00AEEF&currStreakLabel=FFFFFF" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=abenet-shegaw&theme=tokyo-night&bg_color=0D1117&hide_border=true&color=8B5CF6&line=00AEEF&point=00AEEF" alt="Activity Graph" /> </p>
+
 ✨ Let’s Connect
-<p align="center"> <a href="mailto:abenetshegaw@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://linkedin.com/in/abenet-shegaw"><img src="https://img.shields.io/badge/LinkedIn-00AEEF?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://abenet-shegaw.github.io"><img src="https://img.shields.io/badge/Portfolio-1E1E2E?style=for-the-badge&logo=vercel&logoColor=white" /></a> </p>
+<p align="center"> <a href="mailto:abinetshegaw@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://linkedin.com/in/abenetshegaw"><img src="https://img.shields.io/badge/LinkedIn-00AEEF?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://abinet.netlify.app"><img src="https://img.shields.io/badge/Portfolio-1E1E2E?style=for-the-badge&logo=vercel&logoColor=white" /></a> </p>
 <div align="center">
 
 💭 “Code is a spectrum — from light to dark,
