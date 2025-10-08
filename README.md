@@ -16,7 +16,7 @@
 
 
 
-## 🎯 About Me
+🎯 About Me
 
 <p align="center">
   <img src="https://img.shields.io/badge/Software_Engineer-8B5CF6?style=for-the-badge&logo=atom&logoColor=white" />
@@ -31,7 +31,7 @@
 - 🌱 Currently mastering **Advanced React Patterns & Next.Js** & **Machine Learning**
 
 
-## 🛠️ Tech Stack & Tools
+🛠️ Tech Stack & Tools
 
 ### 💻 Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -65,7 +65,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-## 🚀 Featured Projects
+ 🚀 Featured Projects
 
 ### ⚙️ AutoERP - Modular Enterprise System
 > Next.js • Node.js • Prisma • Postgress • REST API
@@ -89,7 +89,7 @@
 
 
 
-## 📫 Let's Connect & Collaborate
+ 📫 Let's Connect & Collaborate
 
 <div align="center">
 
