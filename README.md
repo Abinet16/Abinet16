@@ -16,7 +16,7 @@
 
 
 
-🎯 About Me
+**🎯 About Me**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Software_Engineer-8B5CF6?style=for-the-badge&logo=atom&logoColor=white" />
@@ -31,56 +31,56 @@
 - 🌱 Currently mastering **Advanced React Patterns & Next.Js** & **Machine Learning**
 
 
-🛠️ Tech Stack & Tools
+**🛠️ Tech Stack & Tools**
 
-### 💻 Programming Languages
+      💻 Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🌐 Frontend Development
+    🌐 Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![ShadCN/UI](https://img.shields.io/badge/ShadCN/UI-000000?style=for-the-badge&logo=ui&logoColor=white)
 
-### ⚙️ Backend Development
+     ⚙️ Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=api&logoColor=white)
 
-### 🗄️ Databases
+     🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🛠️ DevOps & Tools
+    🛠️ DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
- 🚀 Featured Projects
+ **🚀 Featured Projects**
 
-### ⚙️ AutoERP - Modular Enterprise System
+     ⚙️ AutoERP - Modular Enterprise System
 > Next.js • Node.js • Prisma • Postgress • REST API
 - **Modular architecture** for scalable business operations
 - **Real-time analytics** and reporting dashboard
 - **Role-based access control** and multi-tenant support
 - *Featured in Better Hack 2025*
 
-### 🧘‍♂️ Service Managment System for Getnet Trading
+      🧘‍♂️ Service Managment System for Getnet Trading
 > React • Redux • .NET • GoogleMaps
 - **Role-based access** 
 - **notification system** 
 - **secure authentication** 
 
-### 🛰️ Fleet Management System
+      🛰️ Fleet Management System
 > Next.js • WebSocket • GeoJSON • Real-time Tracking
 - **Live GPS tracking** with WebSocket connections
 - **GeoJSON integration** for route optimization
@@ -89,7 +89,7 @@
 
 
 
- 📫 Let's Connect & Collaborate
+ **📫 Let's Connect & Collaborate**
 
 <div align="center">
 
@@ -104,7 +104,7 @@
 
 <div align="center">
 
-### 🌟 **"Code is a spectrum — from light to dark, from logic to art. I live where they blend."** 🌟
+    🌟 **"Code is a spectrum — from light to dark, from logic to art. I live where they blend."** 🌟
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" />
 
