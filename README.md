@@ -16,19 +16,11 @@
 
 
 
-**🎯 About Me**
-
 <p align="center">
   <img src="https://img.shields.io/badge/Software_Engineer-8B5CF6?style=for-the-badge&logo=atom&logoColor=white" />
   <img src="https://img.shields.io/badge/FullStack_Developer-00AEEF?style=for-the-badge&logo=fullstack&logoColor=white" />
   <img src="https://img.shields.io/badge/AI_Explorer-10B981?style=for-the-badge&logo=ai&logoColor=white" />
 </p>
-
-- 🎓 **Software Engineering Graduate** from *Wollo University* 
-- 💼 **FullStack Developer** at **Getnet Software Solutions**
-- 🔮 **AI Explorer** preparing for Master's 
-- 🚀 Building **scalable web applications** and **intelligent systems**
-- 🌱 Currently mastering **Advanced React Patterns & Next.Js** & **Machine Learning**
 
 
 **🛠️ Tech Stack & Tools**
@@ -63,28 +55,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
- **🚀 Featured Projects**
-
-     ⚙️ AutoERP - Modular Enterprise System
-> Next.js • Node.js • Prisma • Postgress • REST API
-- **Modular architecture** for scalable business operations
-- **Real-time analytics** and reporting dashboard
-- **Role-based access control** and multi-tenant support
-- *Featured in Better Hack 2025*
-
-      🧘‍♂️ Service Managment System for Getnet Trading
-> React • Redux • .NET • GoogleMaps
-- **Role-based access** 
-- **notification system** 
-- **secure authentication** 
-
-      🛰️ Fleet Management System
-> Next.js • WebSocket • GeoJSON • Real-time Tracking
-- **Live GPS tracking** with WebSocket connections
-- **GeoJSON integration** for route optimization
-- **Real-time alerts** and fleet analytics
 
 
 
