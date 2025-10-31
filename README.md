@@ -15,76 +15,65 @@
 </div>
 
 
+<h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">Abenet</span></h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Software_Engineer-8B5CF6?style=for-the-badge&logo=atom&logoColor=white" />
-  <img src="https://img.shields.io/badge/FullStack_Developer-00AEEF?style=for-the-badge&logo=fullstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Explorer-10B981?style=for-the-badge&logo=ai&logoColor=white" />
-</p>
+<h3 align="center">💻 Software Engineer | Full-Stack Developer | Creative Technologist</h3>
 
-
-**🛠️ Tech Stack & Tools**
-
-      💻 Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-    🌐 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![ShadCN/UI](https://img.shields.io/badge/ShadCN/UI-000000?style=for-the-badge&logo=ui&logoColor=white)
-
-     ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=api&logoColor=white)
-
-     🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-    🛠️ DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
-
-
- **📫 Let's Connect & Collaborate**
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abinetshegaw@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00AEEF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abenetshegaw)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1E1E2E?style=for-the-badge&logo=vercel&logoColor=white)](https://abinet.netlify.app)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Abinet16)
-
-</div>
-
-
-
-<div align="center">
-
-    🌟 **"Code is a spectrum — from light to dark, from logic to art. I live where they blend."** 🌟
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" />
-
-</div>
+<p align="center">I build elegant, scalable, and user-focused web systems powered by modern JavaScript and cloud technologies.</p>
 
 ---
 
-<div align="center">
+### 🚀 About Me  
+- 🧠 Passionate about **building intelligent systems** and **beautiful interfaces**  
+- 💼 Currently crafting an **Advanced Fleet Management System** using Node.js & React|Next.js
+- 🌱 Exploring **AI integration** and **multi-tenant architectures**  
+- 🎯 Goal: Becoming a **Top Front-End Developer** with a mastery of full-stack design  
 
-*⭐️ Don't forget to star some repositories if you find something interesting!*
+---
 
-</div>
+### 🧩 Tech Stack  
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/ShadCN/UI-111827?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abinet16&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abinet16&theme=tokyonight" alt="GitHub streak" height="160"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abinet16&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 🔗 Connect with Me  
+<p align="center">
+  <a href="https://abinet.netlify.app"><img src="https://img.shields.io/badge/Portfolio-1e90ff?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/abenetshegaw"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:abinetshegaw@gmail.com"><img src="https://img.shields.io/badge/Email-ff4b4b?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Abinet16"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center"><i>“Code is poetry — and every project, a verse in my story.”</i></p>
 
 
