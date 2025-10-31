@@ -56,13 +56,9 @@
 ---
 
 ### 📈 GitHub Insights  
-
+  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abinet16&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abinet16&theme=radical" alt="GitHub streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abinet16&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
 </p>
 ---
 
