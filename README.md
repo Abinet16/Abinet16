@@ -31,8 +31,7 @@
 
 ---
 
-### 🧩 Tech Stack  
-### 🧩 Tech Stack  
+### 🧩 Tech Stack   
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -56,12 +55,15 @@
 
 ---
 
-### 📊 GitHub Stats  
+### 📈 GitHub Insights  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abinet16&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abinet16&theme=tokyonight" alt="GitHub streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abinet16&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abinet16&theme=radical" alt="GitHub streak stats" />
+</p>
 ---
 
 ### 🏆 GitHub Trophies  
