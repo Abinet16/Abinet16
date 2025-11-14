@@ -1,27 +1,9 @@
 
 
-<div align="center">
-
-
-
-<!-- Visitor Counter -->
-<img src="https://komarev.com/ghpvc/?username=Abinet16&label=Profile+Views&color=8B5CF6&style=flat-square" alt="Profile views" />
-
-<!-- Quote -->
-<p>
-  <i>✨ "In every line of code, I see color — a gradient of logic and imagination." ✨</i>
-</p>
-
-</div>
-
 
 <h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">Abenet</span></h1>
 
-<h3 align="center">💻 Software Engineer | Full-Stack Developer | Creative Technologist</h3>
-
-<p align="center">I build elegant, scalable, and user-focused web systems powered by modern JavaScript and cloud technologies.</p>
-
----
+<h3 align="center">💻 Software Engineer | Full-Stack Developer</h3>
 
 ### 🚀 About Me  
 - 🧠 Passionate about **building intelligent systems** and **beautiful interfaces**  
