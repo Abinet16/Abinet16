@@ -37,19 +37,6 @@
 
 ---
 
-### 📈 GitHub Insights  
-  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abinet16&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-</p>
----
-
-### 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abinet16&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
----
 
 ### 🔗 Connect with Me  
 <p align="center">
