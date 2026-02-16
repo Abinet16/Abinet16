@@ -13,17 +13,6 @@
 
 ---
 
-
-### 🔗 Connect with Me  
-<p align="center">
-  <a href="https://abinet.netlify.app"><img src="https://img.shields.io/badge/Portfolio-1e90ff?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/abenetshegaw"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:abinetshegaw@gmail.com"><img src="https://img.shields.io/badge/Email-ff4b4b?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Abinet16"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
 <p align="center"><i>“Code is poetry — and every project, a verse in my story.”</i></p>
 
 
