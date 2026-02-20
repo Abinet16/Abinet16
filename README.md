@@ -2,14 +2,16 @@
 
 
 👋 Hi, I'm Abenet
+
 💻 Software Engineer | Full-Stack Developer
 
- 
-- Passionate about building intelligent systems and beautiful interfaces
-- Currently crafting an Advanced Fleet Management System using Node.js & React|Next.js
-- Exploring AI integration and multi-tenant architectures  
-- Goal: Becoming a **Top Front-End Developer** with a mastery of full-stack design
+Software Engineer specializing in MERN Stack, Next.js, and Firebase
 
-<p><i>“Code is poetry — and every project, a verse in my story.”</i></p>
+Experienced in building full-stack web applications and RESTful APIs
+
+Currently focused on scalable architecture, system design, and AI projects
+
+Passionate about clean code, performance optimization, and solving real-world problems
+
 
 
