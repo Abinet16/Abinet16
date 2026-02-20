@@ -1,4 +1,4 @@
-👋 Hi, I'm Abinet  
+👋 Hi, I'm Abenet  
 💻 Software Engineer | Full-Stack Developer  
 
 - Software Engineer specializing in MERN Stack and Next.js  
