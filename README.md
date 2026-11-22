@@ -4,15 +4,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://abenetdev16.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-abenetdev16.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
 ---
-
-### 💻 About Me
 
 - Software Engineer specializing in **Next.js**, **React Native**, **Nest.js**, **Firebase**, **PostgreSQL** and **SQL**
 - Experienced in building **full-stack web applications** and **RESTful APIs**
