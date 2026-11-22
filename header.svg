@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#c084fc"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .title { font: 700 46px 'Segoe UI', Ubuntu, sans-serif; fill: url(#name); opacity: 0; animation: up .8s ease-out forwards; }
+    .role  { font: 500 22px 'Segoe UI', Ubuntu, sans-serif; fill: #cbd5e1; opacity: 0; animation: up .8s ease-out .4s forwards; }
+    .wave  { display: inline-block; transform-origin: 70% 70%; transform-box: fill-box; animation: wave 2s ease-in-out 1s infinite; }
+    .line  { stroke: url(#name); stroke-width: 3; stroke-linecap: round; stroke-dasharray: 260; stroke-dashoffset: 260; animation: draw 1s ease-out .8s forwards; }
+    @keyframes up   { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    @keyframes wave { 0%,60%,100% { transform: rotate(0); } 10%,30% { transform: rotate(14deg); } 20% { transform: rotate(-8deg); } }
+  </style>
+  <rect width="800" height="200" rx="16" fill="url(#bg)"/>
+  <text x="400" y="92" text-anchor="middle" class="title"><tspan class="wave">👋</tspan> Hi, I'm Abenet</text>
+  <line x1="270" y1="115" x2="530" y2="115" class="line"/>
+  <text x="400" y="152" text-anchor="middle" class="role">💻 Software Engineer | Full-Stack Developer</text>
+</svg>
