@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://abenetdev16.vercel.app">
-    <img src="./header.svg" alt="Hi, I'm Abenet — Software Engineer | Full-Stack Developer" width="100%" />
+    <img src="./header.svg" alt="Hi, I'm Abenet — Software Engineer | Full-Stack Developer" width="500" />
   </a>
 </p>
 
