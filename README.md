@@ -12,3 +12,12 @@
 - Passionate about **clean code**, **performance optimization**, and solving real-world problems
 - Currently learning **AI agents** and **Flutter**
 
+---
+
+<p align="center">
+  <a href="https://abenetdev16.vercel.app">Portfolio</a>
+  ·
+  <a href="https://linkedin.com/in/abenetshegaw16/">LinkedIn</a>
+  ·
+  <a href="https://github.com/Abinet16">GitHub</a>
+</p>
