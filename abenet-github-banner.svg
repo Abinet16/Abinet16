@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-labelledby="title desc">
+  <title id="title">Abenet Shegaw — Software Engineer</title>
+  <desc id="desc">GitHub profile banner for Abenet Shegaw, Full-Stack Software Engineer.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#101a18"/><stop offset="100%" stop-color="#172b25"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#a3e635"/><stop offset="100%" stop-color="#34d399"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="280" rx="22" fill="url(#bg)"/>
+  <circle cx="900" cy="35" r="180" fill="#a3e635" opacity=".055"/>
+  <circle cx="930" cy="260" r="130" fill="#34d399" opacity=".06"/>
+  <path d="M0 235 C220 190 330 300 560 230 S850 190 1000 220" fill="none" stroke="#a3e635" stroke-opacity=".14" stroke-width="2"/>
+  <rect x="54" y="58" width="6" height="164" rx="3" fill="url(#accent)"/>
+  <text x="88" y="105" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="39" font-weight="700">Hi, I'm Abenet Shegaw</text>
+  <text x="90" y="151" fill="#a3e635" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" font-weight="600">Software Engineer  |  Full-Stack Developer</text>
+  <text x="90" y="190" fill="#cbd5d1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Building scalable applications and practical digital solutions.</text>
+  <text x="90" y="229" fill="#6ee7b7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">abenetdev16.vercel.app</text>
+  <g transform="translate(825 102)" fill="none" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" opacity=".9">
+    <path d="M0 0 L-25 38 L0 76"/><path d="M55 0 L80 38 L55 76"/><path d="M42 8 L13 68"/>
+  </g>
+</svg>
